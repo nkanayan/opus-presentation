@@ -1,2 +1,3 @@
 # opus-presentation
-Clever Franke opus front end
+CLEVER°FRANKE opus front end
+
